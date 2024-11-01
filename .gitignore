@@ -1,0 +1,13 @@
+# PHP Composer dependencies
+/vendor/
+
+# Environment variables
+config.php
+
+# User uploads
+/uploads/
+
+# IDE specific
+.idea/
+.vscode/
+.DS_Store
